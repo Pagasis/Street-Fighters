@@ -12,7 +12,7 @@ The primary purpose of this project is to serve as an educational tool for learn
 - Animation and images inspired by the original Street Fighters game
 
 ## Copyright Notice
-All animation and images used in this project are copyrighted by the original creators of Street Fighters.
+All animation, images and music used in this project are copyrighted by the original creators of Street Fighters.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
