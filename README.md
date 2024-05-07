@@ -11,6 +11,12 @@ The primary purpose of this project is to serve as an educational tool for learn
 - Windows Forms user interface
 - Animation and images inspired by the original Street Fighters game
 
+## Copyright Notice
+All animation and images used in this project are copyrighted by the original creators of Street Fighters.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 ### Sample Images
 <details>
 <summary>Click Here</summary>
@@ -20,10 +26,3 @@ The primary purpose of this project is to serve as an educational tool for learn
 <img align="left" src="https://github.com/Pagasis/Street-Fighters/assets/74396469/4eba65cd-2fd7-4b24-9c4d-3b580a3314cb"/>
 
 </details>
-
-
-## Copyright Notice
-All animation and images used in this project are copyrighted by the original creators of Street Fighters.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
