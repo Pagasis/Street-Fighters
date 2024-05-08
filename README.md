@@ -4,7 +4,7 @@
 This project is a replica of the popular game Street Fighters, built using Windows Forms in C#.
 
 ## Purpose
-The primary purpose of this project is to serve as an educational tool for learning .NET technology. By building this game, developers can gain hands-on experience in various aspects of .NET development, such as UI design, event handling, and animation.
+The primary purpose of this project is to serve as an educational tool for learning .NET technology. It covers various aspects of .NET development, such as UI design, event handling, and animation.
 
 ## Features
 - Two-player mode
